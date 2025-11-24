@@ -496,7 +496,7 @@
                                                 February 22, 2025
                                             </li>
                                         </ul>
-                                        <h3>Here’s the first Valentino’s new Makeup Collection</h3>
+                                        <h3>Here’s the first Valentino’s newMakeup Collection</h3>
                                         <p class="mt-3">
                                             One of the challenges that often surfaces when  working with a remote sales team is a lack of transparency over what is happening, and where in the process things are taking place. We’re going to peel back the curtain and show you how to create the best sales.
                                         </p>

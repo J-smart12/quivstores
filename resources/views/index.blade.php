@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-    <!--<< Header Area >>-->
-    
-<!-- Mirrored from demo.labibly.xyz/karto/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 26 Oct 2025 06:05:06 GMT -->
 <head>
         <!-- ========== Meta Tags ========== -->
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="author" content="iamlabib">
-        <meta name="description" content="Karto - Multipurpose Ecommerce HTML Template">
+        <meta name="description" content="Quivstores -">
         <!-- ======== Page title ============ -->
-        <title>Karto - Multipurpose Ecommerce HTML Template</title>
+        <title>Quivstores</title>
         <!--<< Favcion >>-->
         <link rel="shortcut icon" href="assets/img/favicon.svg">
         <!--<< Bootstrap min.css >>-->
@@ -41,21 +38,21 @@
                 <div class="spinner">                
                 </div>
                 <div class="txt-loading">
-                    <span data-text-preloader="K" class="letters-loading">
-                        K
+                    <span data-text-preloader="Q" class="letters-loading">
+                        Q
                     </span>
-                    <span data-text-preloader="A" class="letters-loading">
-                        A
+                    <span data-text-preloader="U" class="letters-loading">
+                        U
                     </span>
-                    <span data-text-preloader="R" class="letters-loading">
-                        R
+                    <span data-text-preloader="I" class="letters-loading">
+                        I
                     </span>
-                    <span data-text-preloader="T" class="letters-loading">
-                        T
+                    <span data-text-preloader="V" class="letters-loading">
+                        V
                     </span>
-                    <span data-text-preloader="O" class="letters-loading">
-                        O
-                    </span>
+                    {{-- <span data-text-preloader="E" class="letters-loading">
+                        E
+                    </span> --}}
                 </div>
                 <p class="text-center">Loading</p>
             </div>
@@ -122,7 +119,9 @@
                                         <i class="fal fa-envelope"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a href="mailto:info@example.com"><span class="mailto:info@example.com">info@example.com</span></a>
+                                        <a href="mailto:info@quivstores.com">
+                                            <span class="mailto:info@quivstores.com">info@quivstores.com</span>
+                                        </a>
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-center">
@@ -130,7 +129,7 @@
                                         <i class="fal fa-clock"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a target="_blank" href="#">Mod-friday, 09am -05pm</a>
+                                        <a target="_blank" href="#">Mod-friday, 09am - 05pm</a>
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-center">
@@ -241,7 +240,7 @@
                         </li>
                         <li>
                             <i class="fa-solid fa-envelope"></i>
-                            <a href="mailto:cartly@gmail.com">cartly@gmail.com</a>
+                            <a href="mailto:info@quivstores.com">info@quivstores.com</a>
                         </li>
                     </ul>
                     <p>
